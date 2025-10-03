@@ -1,7 +1,4 @@
 # HR-Project using PowerBI
-
-This is an excellent set of dashboards for Human Resources analytics. Here is the professional README file, enhanced with icons to make it attractive and easy to navigate.
-
 ---
 
 # 👩‍💻 Project README: Interactive HR Analytics Dashboard
